@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "async": "~0.8.0",
-    "ws": "~0.4.31",
+    "ws": "~8.18.3",
     "extend": "~1.2.1",
     "lru-cache": "~2.5.0",
     "superagent": "^0.18.0",
