@@ -17,7 +17,7 @@
   "dependencies": {
     "async": "~0.8.0",
     "ws": "~0.4.31",
-    "extend": "~1.2.1",
+    "extend": "~3.0.2",
     "lru-cache": "~2.5.0",
     "superagent": "^0.18.0",
     "ripple-wallet-generator": "1.0.1"
